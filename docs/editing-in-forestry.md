@@ -1,7 +1,7 @@
 ---
-title: Forestry CMS
+title: Cofe Interface
 date: 2020-01-02
-slug: forestry-cms
+slug: cofe-inter
 
 ---
 ## Import starter
